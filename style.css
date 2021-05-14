@@ -1,0 +1,67 @@
+#Home{
+    -fx-background-image: url('What-is-Business-Finance.jpg');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 600 500;
+    -fx-background-position: center center;
+}
+
+#btnhome{
+    -fx-background-radius: 50px;
+}
+
+#tab1{
+    -fx-background-color: beige;
+}
+
+#tab2{
+    -fx-background-color: antiquewhite;
+}
+
+#tab3{
+    -fx-background-color: bisque;
+}
+
+#tab4{
+    -fx-background-color: burlywood;
+}
+#tab5{
+    -fx-background-color: chocolate;
+}
+
+#savings1{
+    -fx-background-image: url('group-indian-old-coins-white-background_55610-583.jpg');
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1235 793;
+    -fx-background-position: center center;
+
+}
+
+#res{
+    -fx-background-image: url("plant-growing-on-stack-of-coins-against-white-background-1147274958-e7763782495f4122a7811411d7490154.jpg");
+}
+
+#txt{
+    -fx-font-size: 20px;
+    -fx-font-style: italic;
+}
+
+#txt1{
+    -fx-font-size: 20px;
+    -fx-font-style: italic;
+}
+#txt2{
+    -fx-font-size: 20px;
+    -fx-font-style: italic;
+}
+#txt3{
+    -fx-font-size: 20px;
+    -fx-font-style: italic;
+}
+#txt4{
+    -fx-font-size: 20px;
+    -fx-font-style: italic;
+}
+
+
+
+
